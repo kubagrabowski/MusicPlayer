@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="player_margin">8dp</dimen>
+    <dimen name="player_pl_imagesize">300dp</dimen>
+    <dimen name="player_pl_txtsize">30sp</dimen>
+    <dimen name="player_pl_margintxt">30dp</dimen>
+
+    <dimen name="player_pl_nextsize">50dp</dimen>
+    <dimen name="player_pl_puasesize">80dp</dimen>
+    <dimen name="player_pl_marginbottom">50dp</dimen>
+    <dimen name="player_not_buttonsize">28dp</dimen>
+    <dimen name="player_not_namesize">20sp</dimen>
+</resources>
